@@ -2,9 +2,7 @@ import timeit
 
 import numpy
 
-"""
-Sum the numbers from 0 to n-1 in different ways.
-"""
+# Sum the numbers from 0 to n-1 in different ways.
 
 
 def while_loop(n=100_000_000):
